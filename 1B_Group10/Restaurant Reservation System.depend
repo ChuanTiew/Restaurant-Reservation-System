@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1706085444 source:c:\users\asus\desktop\data stucture and algorithms\lab 05\restaurant reservation system\main.cpp
+	<iostream>
+	<string>
+	<queue>
+	<stack>
+	<vector>
+	<fstream>
+	<sstream>
+	<exception>
+	"Queue.h"
+	"Stack.h"
+
+1706076584 c:\users\asus\desktop\data stucture and algorithms\lab 05\restaurant reservation system\queue.h
+
+1706076584 c:\users\asus\desktop\data stucture and algorithms\lab 05\restaurant reservation system\stack.h
+
+1706076584 source:c:\users\asus\desktop\data stucture and algorithms\lab 05\restaurant reservation system\queue.cpp
+	"Queue.h"
+
+1706076584 source:c:\users\asus\desktop\data stucture and algorithms\lab 05\restaurant reservation system\stack.cpp
+	"Stack.h"
+
+1706076584 source:c:\users\asus\desktop\data stucture and algorithms\restaurant reservation system\queue.cpp
+	"Queue.h"
+
+1706076584 c:\users\asus\desktop\data stucture and algorithms\restaurant reservation system\queue.h
+
+1706076584 source:c:\users\asus\desktop\data stucture and algorithms\restaurant reservation system\stack.cpp
+	"Stack.h"
+
+1706076584 c:\users\asus\desktop\data stucture and algorithms\restaurant reservation system\stack.h
+
+1706342855 source:c:\users\asus\desktop\data stucture and algorithms\restaurant reservation system\main.cpp
+	<iostream>
+	<string>
+	<queue>
+	<stack>
+	<vector>
+	<fstream>
+	<sstream>
+	"Queue.h"
+	"Stack.h"
+
+1706722813 source:c:\users\asus\desktop\data stucture and algorithms\1b_group10\main.cpp
+	<iostream>
+	<string>
+	<queue>
+	<stack>
+	<vector>
+	<fstream>
+	<sstream>
+	"Queue.h"
+	"Stack.h"
+
+1706076584 c:\users\asus\desktop\data stucture and algorithms\1b_group10\queue.h
+
+1706076584 c:\users\asus\desktop\data stucture and algorithms\1b_group10\stack.h
+
+1706076584 source:c:\users\asus\desktop\data stucture and algorithms\1b_group10\queue.cpp
+	"Queue.h"
+
+1706076584 source:c:\users\asus\desktop\data stucture and algorithms\1b_group10\stack.cpp
+	"Stack.h"
+
+1706722813 source:c:\users\asus\documents\degree 2\sem 1\data stucture and algorithms\1b_group10\main.cpp
+	<iostream>
+	<string>
+	<queue>
+	<stack>
+	<vector>
+	<fstream>
+	<sstream>
+	"Queue.h"
+	"Stack.h"
+
+1706076584 c:\users\asus\documents\degree 2\sem 1\data stucture and algorithms\1b_group10\queue.h
+
+1706076584 c:\users\asus\documents\degree 2\sem 1\data stucture and algorithms\1b_group10\stack.h
+
+1706076584 source:c:\users\asus\documents\degree 2\sem 1\data stucture and algorithms\1b_group10\queue.cpp
+	"Queue.h"
+
+1706076584 source:c:\users\asus\documents\degree 2\sem 1\data stucture and algorithms\1b_group10\stack.cpp
+	"Stack.h"
+
